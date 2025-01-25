@@ -1,0 +1,7 @@
+ServicesUrl:
+    PolicyApiUrl: http://Microservices.Demo.Policy.API/api/policies
+ElasticApm:
+    SecretToken: 
+    ServerUrls: http://microservices.demo.apm-server:8200
+    ServiceName: Microservices.Demo.Report.API
+    Environment: production
